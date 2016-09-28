@@ -1,0 +1,13 @@
+*{
+    box-sizing: border-box;
+}
+body {
+    text-align: center;
+
+}
+.box {
+    background-color: red;
+    display: inline-block;
+    width: 30vw;
+    height: 30vw;
+}
